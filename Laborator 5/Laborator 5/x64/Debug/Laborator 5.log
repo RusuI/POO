@@ -1,0 +1,14 @@
+﻿  Laborator 5.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cctype(37,1): error C2059: syntax error: 'namespace'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cctype(37,1): error C2143: syntax error: missing ';' before '{'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\cctype(37,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Ioana\source\repos\Laborator 5\Laborator 5\Number.cpp(24,32): error C2511: 'Number::Number(Number &)': overloaded member function not found in 'Number'
+C:\Users\Ioana\source\repos\Laborator 5\Laborator 5\Number.h(2): message : see declaration of 'Number'
+C:\Users\Ioana\source\repos\Laborator 5\Laborator 5\Number.cpp(25,2): error C2671: 'Number::{ctor}': static member functions do not have 'this' pointers
+C:\Users\Ioana\source\repos\Laborator 5\Laborator 5\Number.cpp(26,2): error C2671: 'Number::{ctor}': static member functions do not have 'this' pointers
+C:\Users\Ioana\source\repos\Laborator 5\Laborator 5\Number.cpp(28,33): error C2511: 'Number::Number(Number &&)': overloaded member function not found in 'Number'
+C:\Users\Ioana\source\repos\Laborator 5\Laborator 5\Number.h(2): message : see declaration of 'Number'
+C:\Users\Ioana\source\repos\Laborator 5\Laborator 5\Number.cpp(29,2): error C2671: 'Number::{ctor}': static member functions do not have 'this' pointers
+C:\Users\Ioana\source\repos\Laborator 5\Laborator 5\Number.cpp(30,2): error C2671: 'Number::{ctor}': static member functions do not have 'this' pointers
+C:\Users\Ioana\source\repos\Laborator 5\Laborator 5\Number.cpp(41,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ioana\source\repos\Laborator 5\Laborator 5\Number.cpp(46,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
