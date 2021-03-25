@@ -1,0 +1,24 @@
+﻿  Dacia.cpp
+  Laborator 6.cpp
+C:\Users\Ioana\source\repos\Laborator 6\Laborator 6\Laborator 6.cpp(5,2): error C2065: 'Circuit': undeclared identifier
+C:\Users\Ioana\source\repos\Laborator 6\Laborator 6\Laborator 6.cpp(5,10): error C2146: syntax error: missing ';' before identifier 'c'
+C:\Users\Ioana\source\repos\Laborator 6\Laborator 6\Laborator 6.cpp(5,10): error C2065: 'c': undeclared identifier
+C:\Users\Ioana\source\repos\Laborator 6\Laborator 6\Laborator 6.cpp(7,2): error C2065: 'c': undeclared identifier
+C:\Users\Ioana\source\repos\Laborator 6\Laborator 6\Laborator 6.cpp(9,2): error C2065: 'c': undeclared identifier
+C:\Users\Ioana\source\repos\Laborator 6\Laborator 6\Laborator 6.cpp(9,15): error C2653: 'Weather': is not a class or namespace name
+C:\Users\Ioana\source\repos\Laborator 6\Laborator 6\Laborator 6.cpp(9,24): error C2065: 'Rain': undeclared identifier
+C:\Users\Ioana\source\repos\Laborator 6\Laborator 6\Laborator 6.cpp(11,2): error C2065: 'c': undeclared identifier
+C:\Users\Ioana\source\repos\Laborator 6\Laborator 6\Laborator 6.cpp(11,20): error C2061: syntax error: identifier 'Dacia'
+C:\Users\Ioana\source\repos\Laborator 6\Laborator 6\Laborator 6.cpp(13,2): error C2065: 'c': undeclared identifier
+C:\Users\Ioana\source\repos\Laborator 6\Laborator 6\Laborator 6.cpp(13,21): error C2061: syntax error: identifier 'Toyota'
+C:\Users\Ioana\source\repos\Laborator 6\Laborator 6\Laborator 6.cpp(15,2): error C2065: 'c': undeclared identifier
+C:\Users\Ioana\source\repos\Laborator 6\Laborator 6\Laborator 6.cpp(15,23): error C2061: syntax error: identifier 'Mercedes'
+C:\Users\Ioana\source\repos\Laborator 6\Laborator 6\Laborator 6.cpp(17,2): error C2065: 'c': undeclared identifier
+C:\Users\Ioana\source\repos\Laborator 6\Laborator 6\Laborator 6.cpp(17,19): error C2061: syntax error: identifier 'Ford'
+C:\Users\Ioana\source\repos\Laborator 6\Laborator 6\Laborator 6.cpp(19,2): error C2065: 'c': undeclared identifier
+C:\Users\Ioana\source\repos\Laborator 6\Laborator 6\Laborator 6.cpp(19,20): error C2061: syntax error: identifier 'Mazda'
+C:\Users\Ioana\source\repos\Laborator 6\Laborator 6\Laborator 6.cpp(21,2): error C2065: 'c': undeclared identifier
+C:\Users\Ioana\source\repos\Laborator 6\Laborator 6\Laborator 6.cpp(23,2): error C2065: 'c': undeclared identifier
+C:\Users\Ioana\source\repos\Laborator 6\Laborator 6\Laborator 6.cpp(25,2): error C2065: 'c': undeclared identifier
+  Toyota.cpp
+  Generating Code...
