@@ -1,6 +1,4 @@
-enum class Weather
-{ RAIN,
-  SUNNY,
-  SNOW
-
-}weather;
+#pragma once
+enum Weather
+{RAIN,SUNNY,SNOW
+};

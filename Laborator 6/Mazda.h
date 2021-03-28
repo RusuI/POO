@@ -1,6 +1,7 @@
 #pragma once
 #include "Car.h"
-class Mazda : public Car {
+class Mazda : virtual public Car {
+public:
 
 	Mazda();
 

@@ -1,15 +1,12 @@
-#ifndef CARH
-#define CARH
+#pragma once
 
 class Car {
-protected:
-	int fuelCapacity;
-	int fuelConsumption;
-	int averageSpeed[3];
-	char* name;
 public:
-	virtual float GoCar(bool&, int, int) = 0;
-	virtual char* getName() = 0;
-};
+	int fuel_consumption;
+	int fuel_capacity;
+	int avg_speed_RAIN;
+	int avg_speed_SUNNY;
+	int avg_speed_SNOW;
+	const char* name;
 
-#endif // !CARH
+};

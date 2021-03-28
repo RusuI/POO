@@ -2,9 +2,9 @@
 #include "Car.h"
 
 Mazda::Mazda() {
-	this->fuel_capacity = 6;
+	this->fuel_capacity = 60;
 	this->fuel_consumption = 3;
-	this->avg_speed_RAIN = 34;
+	this->avg_speed_RAIN = 84;
 	this->avg_speed_SUNNY = 67;
 	this->avg_speed_SNOW = 34;
 	this->name = "Mazda";

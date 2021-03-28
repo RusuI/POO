@@ -2,19 +2,27 @@
 #include "Car.h"
 #include "Weather.h"
 class Circuit {
-public :
+public:
 	int currentIndex;
 	int maxIndex;
 	Car** car;
-	Weather 
+	const char* finish[10];
+	const char* notfinish[10];
+	int fin=0, notfin=0;
+	int weather;
+	int length;
+
+
+
 
 
 	Circuit();
 	bool AddCar(Car* car);
 
+	void SetLength(int length);
+	void Race();
+	void ShowFinalRanks();
+	void ShowWhoDidNotFinis();
+	void SetWeather(int weather);
 
-	 void SetWeather();
-	 void ShowFinalRanks();
-	 void ShowWhoDidNotFinis();
-	 
 };

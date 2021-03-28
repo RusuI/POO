@@ -1,9 +1,10 @@
 #pragma once
 #include "Car.h"
-class Ford : public Car {
+class Ford : public virtual Car {
+public:
 
 	Ford();
-	
+
 	int Getfuel_consumption();
 	int Getfuel_capacity();
 	int Getavg_speed_RAIN();

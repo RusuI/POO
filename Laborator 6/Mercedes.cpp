@@ -3,7 +3,7 @@
 
 Mercedes::Mercedes() {
 
-	this->fuel_capacity = 6;
+	this->fuel_capacity = 67;
 	this->fuel_consumption = 10;
 	this->avg_speed_RAIN = 34;
 	this->avg_speed_SUNNY = 67;

@@ -6,16 +6,14 @@
 #include "Toyota.h"
 #include "Mercedes.h"
 #include <iostream>
-#include "Weather.h"
 int main()
 
 {
 
 	Circuit c;
-
 	c.SetLength(100);
 
-	c.SetWeather(Weather::Rain);
+	c.SetWeather(Weather::RAIN);
 
 	c.AddCar(new Dacia());
 

@@ -3,7 +3,7 @@
 #include "Dacia.h"
 
 Dacia::Dacia() {
-	this->fuel_capacity = 5;
+	this->fuel_capacity = 59;
 	this->fuel_consumption = 6;
 	this->avg_speed_RAIN = 55;
 	this->avg_speed_SUNNY = 66;

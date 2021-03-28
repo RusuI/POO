@@ -2,7 +2,7 @@
 #include "Car.h"
 
 Ford::Ford() {
-	this->fuel_capacity = 5;
+	this->fuel_capacity = 55;
 	this->fuel_consumption = 7;
 	this->avg_speed_RAIN = 23;
 	this->avg_speed_SUNNY = 67;
