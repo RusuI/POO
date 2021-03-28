@@ -63,9 +63,9 @@ void Circuit::ShowFinalRanks() {
 		else if (this->weather == 1) {
 			printf("%s will finish in ", this->finish[i]);
 			int avgSpeed;
-			for (int i = 0; i <= this->currentIndex; i++)
+			for (int j = 0; j <= this->currentIndex; j++)
 			{
-				Car* tmp = this->car[i];
+				Car* tmp = this->car[j];
 				if (strcmp(tmp->name, finish[i]) == 0)
 				{
 					avgSpeed = tmp->avg_speed_SUNNY;
@@ -76,9 +76,9 @@ void Circuit::ShowFinalRanks() {
 		else if (this->weather == 2) {
 			printf("%s will finish in ", this->finish[i]);
 			int avgSpeed;
-			for (int i = 0; i <= this->currentIndex; i++)
+			for (int j = 0; j <= this->currentIndex; j++)
 			{
-				Car* tmp = this->car[i];
+				Car* tmp = this->car[j];
 				if (strcmp(tmp->name, finish[i])==0)
 				{
 					avgSpeed = tmp->avg_speed_SNOW;
